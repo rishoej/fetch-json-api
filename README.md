@@ -1,4 +1,4 @@
-# fetchJsonApi
+# Fetch json api
 A vanilla javascript alternative to ajax for fetching a json api.
 
 # How to:
